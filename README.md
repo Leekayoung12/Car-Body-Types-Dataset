@@ -1,15 +1,15 @@
 # 자동차 차체 유형 인식 모델🚗
 
-
+<br>
 이 프로젝트는 다양한 자동차 차체 유형을 인식하는 강력한 머신러닝/딥러닝 모델을 개발하는 것을 목표로 합니다. 
 사용된 데이터셋은 Convertible, Coupe, Hatchback, Pick-Up, SUV, Sedan, VAN과 같은 7가지 차체 유형의 이미지로 구성되어 있습니다.
-
+<br>
 ## 데이터셋 개요
 - **총 클래스 수:** 7
 - **클래스 명:** Convertible, Coupe, Hatchback, Pick-Up, SUV, Sedan, VAN
 - **총 이미지 수:** 7,000 (각 클래스당 1,000개의 이미지)
 
-
+<br>
 ## 모델 아키텍처
 - **사전 훈련된 모델:** DenseNet121
 - **Dense 블록 수:** 4
