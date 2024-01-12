@@ -12,6 +12,7 @@
 - **총 클래스 수:** 7
 - **클래스 명:** Convertible, Coupe, Hatchback, Pick-Up, SUV, Sedan, VAN
 - **총 이미지 수:** 7,000 (각 클래스당 1,000개의 이미지)
+- **데이터 출처:** 케글(https://www.kaggle.com/datasets/ademboukhris/cars-body-type-cropped)
 
 <br>
 
