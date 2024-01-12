@@ -16,6 +16,7 @@
 <br>
 
 ## 모델 아키텍처
+![DenseNet121](https://miro.medium.com/v2/resize:fit:720/format:webp/1*u4hyohOF9SIRRLBAzqYXfQ.jpeg)
 - **사전 훈련된 모델:** DenseNet121
 - **Dense 블록 수:** 4
 - **레이어 수:** 121
